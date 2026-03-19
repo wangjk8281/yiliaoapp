@@ -1,0 +1,7 @@
+{
+  "name": "MedDoc AI Platform",
+  "description": "医疗智能文书平台 - 多格式输入 + 医疗知识库驱动 + 结构化文书输出",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
