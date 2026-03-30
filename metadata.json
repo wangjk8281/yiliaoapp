@@ -1,0 +1,8 @@
+{
+  "name": "MedDoc AI Platform",
+  "description": "A medical AI assistant for doctors, featuring chat-based UI, patient context awareness, and medical knowledge RAG.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
